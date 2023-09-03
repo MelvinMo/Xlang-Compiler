@@ -123,4 +123,4 @@ Xlang is an educational programming language with C/Pascal-like syntax. Key feat
 - Add directives for data/text segments
 - Insert stack management instructions
 
-> The information provided above is an English translation of the original project description, which was written in Persian. The original Persian project description PDF can be found in this repository, along with my YACC and Bison codes.
+> The information provided above is an English translation of the original project description, which was written in Persian. The original Persian project description PDF can be found in this repository, along with my Yacc and Lex codes.
